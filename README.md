@@ -6,8 +6,11 @@ I’m a passionate security researcher specializing in building secure, scalable
 
 Key Projects & Skills
 Cloud Security: Designed a secure AWS-based architecture for an e-commerce store, achieving zero vulnerabilities through IriusRisk threat modeling, with policies aligned to ISO 27001 and GDPR.
+
 AI in Cybersecurity: Built machine learning models (e.g., XGBoost, CNN) for cyber attack classification and anomaly detection using datasets like UNSW-NB15, integrating PCA and clustering techniques.
+
 Penetration Testing: Conducted ethical pentests using Kali Linux, Metasploit, and custom Python scripts to identify vulnerabilities like SSRF and legacy SSH exploits.
+
 Smart Contract Security: Developed Python-based auditing tools for Solidity smart contracts, ensuring secure blockchain applications for tokenization systems.
 Technologies: AWS (VPC, EC2, RDS, S3, WAF, CloudTrail), Python, Scikit-learn, TensorFlow, Slither, Wireshark, Burp Suite, and more.
 
